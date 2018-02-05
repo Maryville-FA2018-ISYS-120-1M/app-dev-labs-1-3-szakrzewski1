@@ -34,6 +34,12 @@
  */
 let pi = 3.1415927 
 //change//
+let Mohammed = "Luke"
+var Nike = 8
+var football = 50 / 2
+let x = 51
+let y = 53
+// change is done//
 
 
 //: page 1 of 8  |  [Next: App Exercise - Fitness Calculations](@next)
